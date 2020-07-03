@@ -1,6 +1,6 @@
 {
 	"name": "cli-strip-html",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Strip HTML in a JavaScript/Node.js string.",
 	"license": "MIT",
 	"repository": "ahmadawais/cli-strip-html",
