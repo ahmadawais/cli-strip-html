@@ -1,3 +1,3 @@
-const cliStripHtml = require('./index.js');
+const stripHtml = require('./index.js');
 
-cliStripHtml();
+console.log(stripHtml(`Some <br> text with <div>HTML</div>.`));
