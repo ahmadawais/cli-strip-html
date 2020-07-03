@@ -22,8 +22,23 @@ npm install cli-strip-html
 ## Usage
 
 ```js
-const cliStripHtml = require('cli-strip-html');
+const stripHtml = require('cli-strip-html');
+
+stripHtml(`Some <br> text with <div>HTML</div>.`);
+// Prints: "Some text with HTML."
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### stripHtml(htmlString)
+
+#### ❯ htmlString
+
+Type: `string`<br>
 
 <br>
 
