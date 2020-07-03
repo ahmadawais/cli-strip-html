@@ -32,7 +32,26 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.0.1](https://github.com/ahmadawais/cli-strip-html/compare/1.0.1...1.0.1)
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.1
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 First commit [`f863361`](https://github.com/ahmadawais/cli-strip-html/commit/f8633614c69797ca6198f7a63b140e5f49239efb) <br>
+> 📦 First version [`bfe12cc`](https://github.com/ahmadawais/cli-strip-html/commit/bfe12ccee490e015afc3228e8355bb9d9a7f74b1) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`1b433fe`](https://github.com/ahmadawais/cli-strip-html/commit/1b433fec2299c40f6441cf587daee9e5c72f81f0) <br>
+> 📖 Docs [`355dd8d`](https://github.com/ahmadawais/cli-strip-html/commit/355dd8d5a0fe6b943ee328c0a3050102de310f9b) <br>
+>  📖 Changelog [`af76158`](https://github.com/ahmadawais/cli-strip-html/commit/af76158835c19a8cd2ae879f5c51587463a9ab0c) <br>
 
 <br>
 
@@ -90,6 +109,6 @@ without wasting a 1,000 hours</a> →</p>
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-[![Sponsorhttps://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][sponsor]
+[![Sponsor](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][sponsor]
 
 [sponsor]: https://github.com/AhmadAwais/sponsor
