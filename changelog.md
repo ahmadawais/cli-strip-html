@@ -32,7 +32,15 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: [1.0.1](https://github.com/ahmadawais/cli-strip-html/compare/1.0.1...1.0.1)
+### RELEASE: [1.0.2](https://github.com/ahmadawais/cli-strip-html/compare/1.0.1...1.0.2)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Remove Scarf [`421b213`](https://github.com/ahmadawais/cli-strip-html/commit/421b213a83d8fd01926d3ffd8f0a91e53532702f) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog [`c3079ac`](https://github.com/ahmadawais/cli-strip-html/commit/c3079acdbeda4b70829693d6c01f619a4908f4d1) <br>
 
 <br>
 
